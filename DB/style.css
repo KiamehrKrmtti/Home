@@ -1,0 +1,21 @@
+*{
+background-color: rgb(63, 242, 255);
+font-family: "Sofia", sans-serif;
+}
+p {
+    font-size: 40px;
+    font-size: bold;        
+    color: aliceblue;
+    text-shadow: 10px;
+    font-weight: bold;
+    text-align: center;    
+    font-family: "Sofia", sans-serif;
+  }
+  header {
+    font-size: 80px;
+
+    text-align: center;
+
+
+
+  }
